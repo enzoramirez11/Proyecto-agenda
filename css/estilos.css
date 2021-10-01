@@ -1,0 +1,4 @@
+.dia-tarjeta {
+    cursor:pointer;    
+    background: linear-gradient(0deg, rgba(0,0,0,1) 0%, rgba(0,0,0,0) 33.33%, rgb(255 255 255) 66.66%, rgba(255,255,255,0) 99.99%)
+}
